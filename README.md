@@ -55,7 +55,7 @@ AI-driven stock signal and research platform, built for fast, data-backed tradin
   <img src="https://img.shields.io/badge/Solo%20Founder-0F172A?style=for-the-badge" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:1D4ED8,100:58A6FF&height=3&section=header"/>
 
 ### 📊 Current Focus
 
@@ -64,7 +64,8 @@ AI-driven stock signal and research platform, built for fast, data-backed tradin
 - 📚 Balancing Class XI academics with founder work
 - 🔺 Pushing toward elite-level building and product skill
 
----
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:1D4ED8,100:58A6FF&height=3&section=header"/>
 
 ### 🏆 Trophies
 
@@ -72,7 +73,7 @@ AI-driven stock signal and research platform, built for fast, data-backed tradin
   <img src="https://github-profile-trophy.vercel.app/?username=Rustys90&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:1D4ED8,100:58A6FF&height=3&section=header"/>
 
 ### 📈 GitHub Stats
 
@@ -89,7 +90,7 @@ AI-driven stock signal and research platform, built for fast, data-backed tradin
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rustys90&theme=tokyo-night&hide_border=true" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:1D4ED8,100:58A6FF&height=3&section=header"/>
 
 ### 👾 My Pixel Pet
 
@@ -97,7 +98,7 @@ AI-driven stock signal and research platform, built for fast, data-backed tradin
   <a href="https://nomlings.cc/badge"><img src="https://nomlings.cc/badge/Rustys90" /></a>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:1D4ED8,100:58A6FF&height=3&section=header"/>
 
 ### 📬 Connect With Me
 
