@@ -1,16 +1,59 @@
-## Hi there 👋
+### Hi there, I'm Rustys90 👋
 
-<!--
-**Rustys90/Rustys90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=I+build+modern+websites;Vibe+coding+with+AI;Always+leveling+up+my+skills;Aiming+to+become+elite)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+
+I'm a web developer who builds modern websites, mostly through **vibe coding** with the help of AI.  
+I enjoy turning ideas into clean, functional, and good-looking websites.
+
+Right now I'm focused on improving every day — writing better code, understanding things more deeply, and building real projects.
+
+My long-term goal is simple but ambitious:  
+**Become an extremely high-level coder.**
+
+---
+
+### 🛠️ What I Work With
+
+- HTML, CSS, JavaScript
+- Modern frontend development
+- AI-assisted coding (vibe coding)
+- Building complete websites from scratch
+
+---
+
+### 🚀 Projects
+
+I've already built a few websites and continue to create more as I improve.  
+New projects will be added here regularly.
+
+---
+
+### 📈 Current Focus
+
+- Mastering web development
+- Writing cleaner and more efficient code
+- Building real projects consistently
+- Pushing myself to reach the highest skill level possible
+
+---
+
+### 📊 GitHub Stats
+
+![Rustys90's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rustys90&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rustys90&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+### 📫 Connect with me
+
+- **Email:** s90.vfx@gmail.com  
+- **GitHub:** [Rustys90](https://github.com/Rustys90)
+
+---
+
+⭐️ From [Rustys90](https://github.com/Rustys90)
