@@ -1,7 +1,7 @@
 [![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:58A6FF&height=220&section=header&text=Rustys90&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Founder%20%7C%20Builder%20%7C%20AI-Assisted%20Developer&descAlignY=55&descSize=18)](https://github.com/Rustys90)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+ClipForge+%E2%80%94+AI+YouTube+to+Shorts+SaaS;Building+Stockforge+%E2%80%94+AI+Stock+Signal+Platform;Solo+Founder+%2B+Class+XI+Student;Shipping+with+AI-Assisted+Development;Always+leveling+up+my+skills" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+ClipForge+%E2%80%94+AI+YouTube+to+Shorts+SaaS;Building+Stockforge+%E2%80%94+AI+Stock+Signal+Platform;Shipping+with+AI-Assisted+Development;Always+leveling+up+my+skills" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a solo founder based in **Delhi, India** — building AI-powered SaaS products while still in **Class XI**.
+I'm a solo founder building AI-powered SaaS products.
 
 I build through **AI-assisted development**, working closely with agent-based coding systems to turn ideas into shipped products fast. My focus is on real, revenue-facing products — not side projects.
 
@@ -61,7 +61,6 @@ AI-driven stock signal and research platform, built for fast, data-backed tradin
 
 - 🎯 Shipping ClipForge and Stockforge to launch-ready state
 - 🧠 Mastering AI-assisted development workflows
-- 📚 Balancing Class XI academics with founder work
 - 🔺 Pushing toward elite-level building and product skill
 
 
