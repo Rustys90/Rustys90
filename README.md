@@ -161,12 +161,11 @@ Tap-to-teleport world map, place search, favorites, history, floating controls. 
 
   <br/>
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rustys90&layout=compact&theme=radical&bg_color=010828&title_color=6FFF00&text_color=EFF4FF&border_color=112240&hide_border=false" alt="langs" />
-  <img height="170" src="https://github-profile-trophy.vercel.app/?username=Rustys90&theme=radical&no-frame=true&no-bg=true&margin-w=8&title=Stars,Commits,Repositories,Followers" alt="trophies" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rustys90&layout=compact&theme=radical&bg_color=010828&title_color=6FFF00&text_color=EFF4FF&border_color=112240&hide_border=false" alt="langs" />
 
   <br/><br/>
 
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rustys90&bg_color=010828&color=6FFF00&line=6FFF00&point=EFF4FF&area=true&hide_border=true" alt="activity graph" />
+  <img width="100%" src="https://ghchart.rshah.org/6fff00/Rustys90" alt="contribution chart" />
 
 </div>
 
